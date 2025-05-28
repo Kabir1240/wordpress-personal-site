@@ -1,8 +1,10 @@
 # Personal Site
+This is a single-page Personal Site built using WordPress.
+
 ## Demo
 ![](docs/demo-1.png)
 ![](docs/demo-2.png)
-![](docs/demo-2.png)
+![](docs/demo-3.png)
 
 ## Color Palette
 ![](docs/color-palette.png)
